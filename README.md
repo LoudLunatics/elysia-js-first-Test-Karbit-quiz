@@ -38,4 +38,4 @@ Bash
 
 bun run index.ts
 
-Biasanya jalan di localhost:3000. Kalau gak jalan, coba siram PC lu pake air ruqyah.
+Biasanya jalan di localhost:3000. Kalau gak jalan, lanjut scroll fesnuk.
