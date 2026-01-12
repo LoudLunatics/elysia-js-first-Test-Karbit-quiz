@@ -2,13 +2,13 @@
 
 ![Kucing Ketawa](https://media.tenor.com/swT-k6N7q8YAAAAM/cat-laughing.gif)
 
-# 🎌 Anime Guess: Ujian Nasional Wibu Karbit 😹🫵
+# 🎌 Test Karbit Quiz 😹🫵
 
 ![Kucing Ketawa](https://media.tenor.com/swT-k6N7q8YAAAAM/cat-laughing.gif)
 
 > *"Masa ngaku Wibu tontonannya cuma Naruto doang? Kocak gaming adik-adik. Minimal tamatin One Piece 3x puteran lah. **Bit bit karbit... waspadalah suki!** 😹"*
 
-Project **Anime Guess** ini hadir untuk memisahkan **Emas (Sepuh)** dari **Loyang (Karbitan)**. Dibangun pake **Bun** dan **ElysiaJS** biar *speed*-nya ngalahin jurus Hiraishin Minato, gak kayak *skill* ngoding lu yang masih 'Hello World' terus.
+Project **Test Karbit Quiz** ini hadir untuk memisahkan **Emas (Sepuh)** dari **Loyang (Karbitan)**. Dibangun pake **Bun** dan **ElysiaJS** biar *speed*-nya ngalahin jurus Hiraishin Minato, gak kayak *skill* ngoding lu yang masih 'Hello World' terus.
 
 ---
 
