@@ -1,16 +1,41 @@
-# anime-guess
+# 🎌 Test Karbit Quiz 😹🫵
 
-To install dependencies:
+![Kucing Ketawa](https://media.tenor.com/swT-k6N7q8YAAAAM/cat-laughing.gif)
+
+# 🎌 Anime Guess: Ujian Nasional Wibu Karbit 😹🫵
+
+![Kucing Ketawa](https://media.tenor.com/swT-k6N7q8YAAAAM/cat-laughing.gif)
+
+> *"Masa ngaku Wibu tontonannya cuma Naruto doang? Kocak gaming adik-adik. Minimal tamatin One Piece 3x puteran lah. **Bit bit karbit... waspadalah suki!** 😹"*
+
+Project **Anime Guess** ini hadir untuk memisahkan **Emas (Sepuh)** dari **Loyang (Karbitan)**. Dibangun pake **Bun** dan **ElysiaJS** biar *speed*-nya ngalahin jurus Hiraishin Minato, gak kayak *skill* ngoding lu yang masih 'Hello World' terus.
+
+---
+
+## 🥶 Tech Stack (Alat Tempur)
+
+Biar dikira jago, kita pake stack yang *bleeding edge* wir:
+
+- **Runtime:** [Bun](https://bun.sh) (v1.3.5) — *Kenceng bgt bjir, Node.js minggir dulu puh.*
+- **Framework:** [ElysiaJS](https://elysiajs.com) — *Framework wangi, sewangi ketek Reze.*
+
+---
+
+## 🤸 Cara Install (Tutorial Buat Newbie)
+
+Jangan banyak tanya "Bang ini jalaninnya gimana?", baca dulu wir. Budayakan membaca sebelum berkomentar.
+
+### 1. Panggil Khodam (Install Dependencies)
+Ketik ini di terminal (jangan di status WA):
 
 ```bash
 bun install
-```
 
-To run:
+2. Nyalain Arena Ujian (Run Server)
 
-```bash
+Gaspol mesinnya bang, jangan lupa bismillah biar gak panic error:
+Bash
+
 bun run index.ts
-```
 
-This project was created using `bun init` in bun v1.3.5. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
-# elysia-js-first-Test-Karbit-quiz
+Biasanya jalan di localhost:3000. Kalau gak jalan, coba siram PC lu pake air ruqyah.
